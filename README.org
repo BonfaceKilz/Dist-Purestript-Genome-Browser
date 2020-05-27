@@ -1,0 +1,4 @@
+*** Genetics Browser
+This contains the dist files for the genetics browser found [[https://chfi.github.io/genetics-browser-example/track/][here]].
+
+The original purescript files are found [[https://github.com/chfi/purescript-genetics-browser][here]].
